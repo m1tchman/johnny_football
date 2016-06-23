@@ -5,7 +5,7 @@ body {
 h1 {
 	font-family: Helvetica;
 	font-weight: bold;
-	font-color: black;
+	color: black;
 	margin: 0 auto;
 	text-align: center;
 	padding: 15px;
@@ -17,6 +17,53 @@ nav {
 	background-color: yellow;
 	position: fixed;
 	top: 0;
-
 }
+
+h2 {
+	font-family: Helvetica;
+	font-weight: lighter;
+	letter-spacing: 10px;
+	text-transform: uppercase;
+	color: gray;
+	font-size: 20px;
+	position: relative;
+	top: 70px;
+	text-align: center;
+	
+}
+
+.Employees {
+	width: 500px;
+	height: 200px;
+/*	background-color: gray;*/
+	margin: 0 auto;
+	position: relative;
+	top: 80px;
+}
+
+.Employee {
+	display: inline-block;
+	margin-left: 40px;
+}
+
+h3 {
+	font-family: Helvetica;
+	font-size: 15px;
+	text-align: center;
+}
+
+h4 {
+	font-family: helvetica;
+	font-size: 12px;
+	color: gray;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
 
